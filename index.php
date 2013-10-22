@@ -14,9 +14,6 @@
   </head>
   <body>
     <h1>Hund Katze Maus</h1>
-    <p>
-    	<?php phpinfo(); ?>
-    </p>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
